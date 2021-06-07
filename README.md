@@ -1,16 +1,42 @@
-### Hi there 👋
+# Rahil's GitHub
 
-<!--
-**rahilsh/rahilsh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+* Software Developer
+* Programming since 2014
+* Tech Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## &#x1f4c8; GitHub Stats
+
+<p>
+
+<a href="https://github.com/c-guntur/c-guntur">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=rahilsh&show_icons=true&include_all_commits=true&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&" alt="Chandra's Technologies on GitHub" width="400"/></a>
+  
+<p/>
+
+<p>
+  
+<a href="https://github.com/rahilsh/rahilsh">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahilsh&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact&hide=shell,css&theme=material-palenight" alt="Chandra's GitHub Stats" width="400"/></a>
+
+<p/>
+
+### Hotel Booking
+
+<a href="https://github.com/rahilsh/hotel-booking"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahilsh&repo=hotel-booking&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400"/></a><p/>
+
+This repository showcases basic building blocks of a hotel room booking app backend.
+
+### Cab App
+
+<a href="https://github.com/rahilsh/cab"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahilsh&repo=cab&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400"/></a><p/>
+
+This repository has implementation of admin and user module
+
+
+## Social Media
+
+[![Website](https://img.shields.io/badge/Website-rahilsh.tk-informational?style=flat-square&logo=jekyll&logoColor=white)](http://rahilsh.tk/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-rahilsh-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahilsh/)
+[![Twitter](https://img.shields.io/badge/Twitter-rahilsh-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/rahilrshk/)
