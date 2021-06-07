@@ -39,4 +39,4 @@ This repository has implementation of admin and user module
 
 [![Website](https://img.shields.io/badge/Website-rahilsh.tk-informational?style=flat-square&logo=jekyll&logoColor=white)](http://rahilsh.tk/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-rahilsh-informational?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rahilsh/)
-[![Twitter](https://img.shields.io/badge/Twitter-rahilsh-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/rahilrshk/)
+[![Twitter](https://img.shields.io/badge/Twitter-rahilrshk-informational?style=flat-square&logo=twitter&logoColor=white)](https://www.twitter.com/rahilrshk/)
