@@ -2,7 +2,6 @@
 
 ## About Me
 
-* Software Developer
 * Programming since 2014
 * Tech Enthusiast
 
