@@ -31,7 +31,7 @@ This repository showcases basic building blocks of a hotel room booking app back
 
 <a href="https://github.com/rahilsh/cab"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=rahilsh&repo=cab&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" width="400"/></a><p/>
 
-This repository has implementation of admin and user module
+This repository has implementation of admin and user module.
 
 
 ## Social Media
