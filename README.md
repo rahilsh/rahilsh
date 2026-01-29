@@ -115,7 +115,7 @@ I am a **Senior Software Engineer** focused on building high-throughput, low-lat
 <p align="left">
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
   <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" /></a>
-  <a href="https://helm.sh/"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://helm.sh/"><img src="icons/helm.svg" width="40" height="40" alt="Docker" /></a>
   <a href="https://istio.io/"><img src="https://cdn.simpleicons.org/istio" width="40" height="40" alt="Docker" /></a>
 </p>
 
