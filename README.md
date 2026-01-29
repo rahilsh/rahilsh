@@ -10,7 +10,7 @@
 <p>
   
 <a href="https://github.com/rahilsh/rahilsh">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahilsh&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact&hide=shell,css&theme=material-palenight" alt="Chandra's GitHub Stats" width="400"/></a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahilsh&title_color=2aa889&text_color=99d1ce&icon_color=2bbc8a&bg_color=0c1014&langs_count=8&layout=compact&hide=shell,css&theme=material-palenight" alt="Rahil's GitHub Stats" width="400"/></a>
 
 <p/>
 
