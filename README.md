@@ -147,10 +147,10 @@ I am a **Senior Software Engineer** focused on building high-throughput, low-lat
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /></a>
   <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a>
   <a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv" width="40" height="40" alt="Git" /></a>
-  <a href="https://www.deeplearning.ai/"><img src="deeplearning.svg" width="40" height="40" alt="LLM" /></a>
-  <a href="https://aws.amazon.com/what-is/large-language-model/"><img src="llm.svg" width="40" height="40" alt="LLM" /></a>
-  <a href="https://arxiv.org/pdf/2510.12323"><img src="rag.svg" width="40" height="40" alt="RAG" /></a>
-  <a href="https://ml-ops.org/"><img src="mlops.svg" width="40" height="40" alt="MLOps" /></a>
+  <a href="https://www.deeplearning.ai/"><img src="icons/deeplearning.svg" width="40" height="40" alt="DeepLearning" /></a>
+  <a href="https://aws.amazon.com/what-is/large-language-model/"><img src="icons/llm.svg" width="40" height="40" alt="LLM" /></a>
+  <a href="https://arxiv.org/pdf/2510.12323"><img src="icons/rag.svg" width="40" height="40" alt="RAG" /></a>
+  <a href="https://ml-ops.org/"><img src="icons/mlops.svg" width="40" height="40" alt="MLOps" /></a>
 </p>
 
 
