@@ -44,11 +44,11 @@ I am a **Senior Software Engineer** focused on building high-throughput, low-lat
 
 ### **Architecture**
 <p align="left">
-  <a href="https://microservices.io/"><img src="https://img.shields.io/badge/Microservices-E0E0E0" width="40" height="40" alt="Microservices" /></a>
-  <a href="https://en.wikipedia.org/wiki/Domain-driven_design"><img src="https://img.shields.io/badge/DDD-E0E0E0" width="40" height="40" alt="DDD" /></a>
-  <a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs"><img src="https://img.shields.io/badge/CQRS-E0E0E0" width="40" height="40" alt="CQRS" /></a>
-  <a href="https://12factor.net/"><img src="https://img.shields.io/badge/12FA-E0E0E0" width="40" height="40" alt="12Factor" /></a>
-  <a href="https://aws.amazon.com/event-driven-architecture/"><img src="https://img.shields.io/badge/EDA-E0E0E0" width="40" height="40" alt="EDA" /></a>
+  <a href="https://img.shields.io/badge/Microservices-%23239120.svg?style=for-the-badge&logo=micro-strategy&logoColor=white"><img src="https://img.shields.io/badge/Microservices-%23239120.svg?style=for-the-badge&logo=micro-strategy&logoColor=white" alt="Microservices" /></a>
+  <a href="https://en.wikipedia.org/wiki/Domain-driven_design"><img src="https://img.shields.io/badge/DDD-%23004E89.svg?style=for-the-badge&logo=blueprint&logoColor=white" alt="DDD" /></a>
+  <a href="https://learn.microsoft.com/en-us/azure/architecture/patterns/cqrs"><img src="https://img.shields.io/badge/CQRS-%23333333.svg?style=for-the-badge&logo=git-compare&logoColor=white" alt="CQRS" /></a>
+  <a href="https://12factor.net/"><img src="https://img.shields.io/badge/12%20Factor%20App-%23000000.svg?style=for-the-badge&logo=12FactorApp&logoColor=white" alt="12Factor" /></a>
+  <a href="https://aws.amazon.com/event-driven-architecture/"><img src="https://img.shields.io/badge/Event--Driven-%23FFCC00.svg?style=for-the-badge&logo=lightning&logoColor=black" alt="EDA" /></a>
 </p>
 
 ### **Messaging technology**
@@ -60,47 +60,48 @@ I am a **Senior Software Engineer** focused on building high-throughput, low-lat
 <p align="left">
   <a href="https://spring.io"><img src="https://skillicons.dev/icons?i=spring" width="40" height="40" alt="Spring" /></a>
   <a href="https://hibernate.org"><img src="https://skillicons.dev/icons?i=hibernate" width="40" height="40" alt="Hibernate" /></a>
-  <a href="https://github.com/google/guice"><img src="https://img.shields.io/badge/Google%20Guice-E0E0E0" width="40" height="40" alt="GoogleGuice" /></a>
-  <a href="https://hibernate.org"><img src="https://img.shields.io/badge/Dropwizard-E0E0E0" width="40" height="40" alt="Dropwizard" /></a>
-  <a href="https://hibernate.org"><img src="https://img.shields.io/badge/Lombok-E0E0E0" width="40" height="40" alt="Lombok" /></a>
+  <a href="https://github.com/google/guice"><img src="https://img.shields.io/badge/Google%20Guice-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white" alt="GoogleGuice" /></a>
+  <a href="https://hibernate.org"><img src="https://raw.githubusercontent.com/dropwizard/dropwizard/master/docs/source/_static/dropwizard-logo.svg" alt="Dropwizard"  width="40" height="40" /></a>
+  <a href="https://projectlombok.org/"><img src="https://raw.githubusercontent.com/projectlombok/lombok/master/src/installer/lombok/installer/lombok.svg" alt="Lombok" width="40" height="40" /></a>
 </p>
 
 ### **Testing**
 <p align="left">
-  <img src="https://img.shields.io/badge/JUnit-E0E0E0" />
-  <img src="https://img.shields.io/badge/Mockito-E0E0E0" />
+  <a href="https://junit.org/"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/junit.png" width="40" height="40" alt="JUnit" /></a>
+  <a href="https://site.mockito.org/"> <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocikto.png" height="40"  /></a>
 </p>
 
 ### **AWS**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/SQS-E0E0E0" />
-  <img src="https://img.shields.io/badge/S3-E0E0E0" />
-  <img src="https://img.shields.io/badge/EC2-E0E0E0" />
-  <img src="https://img.shields.io/badge/RDS-E0E0E0" />
-  <img src="https://img.shields.io/badge/Lambda-E0E0E0" />
-  <img src="https://img.shields.io/badge/ECS-E0E0E0" />
-  <img src="https://img.shields.io/badge/CFN-E0E0E0" />
-  <img src="https://img.shields.io/badge/CDK-E0E0E0" />
-  <img src="https://img.shields.io/badge/CloudWatch-E0E0E0" />
-  <img src="https://img.shields.io/badge/DynamoDB-E0E0E0" />
-  <img src="https://img.shields.io/badge/Event%20Bridge-E0E0E0" />
-  <img src="https://img.shields.io/badge/Step%20Functions-E0E0E0" />
-  <img src="https://img.shields.io/badge/Athena-E0E0E0" />
+  <a href="https://docs.aws.amazon.com/appconfig/"> <img src="icons/aws/app_config.svg" width="40" height="40" alt="AppConfig" /></a>
+  <a href="https://aws.amazon.com/sqs/"><img src="icons/aws/sqs.svg" width="40" height="40" alt="SQS" /></a>
+  <a href="https://aws.amazon.com/s3"><img src="icons/aws/s3.svg" width="40" height="40" alt="S3" /></a>
+  <a href="https://aws.amazon.com/sqs/"><img src="icons/aws/ec2.svg" width="40" height="40" alt="SQS" /></a>
+  <a href="https://aws.amazon.com/rds/"><img src="icons/aws/rds.svg" width="40" height="40" alt="RDS" /></a>
+  <a href="https://aws.amazon.com/lambda/"><img src="icons/aws/lambda.svg" width="40" height="40" alt="Lambda" /></a>
+  <a href="https://aws.amazon.com/ecs/"><img src="icons/aws/ecs.svg" width="40" height="40" alt="ECS" /></a>
+  <a href="https://aws.amazon.com/cloudformation/"><img src="icons/aws/cfn.svg" width="40" height="40" alt="CFN" /></a>
+  <a href="https://aws.amazon.com/cdk/"><img src="icons/aws/cdk.svg" width="40" height="40" alt="CDK" /></a>
+  <a href="https://aws.amazon.com/cloudwatch/"><img src="icons/aws/cw.svg" width="40" height="40" alt="CW" /></a>
+  <a href="https://aws.amazon.com/dynamodb/"><img src="icons/aws/ddb.svg" width="40" height="40" alt="DDB" /></a>
+  <a href="https://aws.amazon.com/eventbridge/"><img src="icons/aws/event_bridge.svg" width="40" height="40" alt="EventBridge" /></a>
+  <a href="https://aws.amazon.com/step-functions/"><img src="icons/aws/step_function.svg" width="40" height="40" alt="StepFunction" /></a>
+  <a href="https://aws.amazon.com/athena/"><img src="icons/aws/athena.svg" width="40" height="40" alt="Athena" /></a>
 </p>
 
 ### **Data & Databases**
 #### **Big data**
 
 <p align="left">
-  <img src="https://img.shields.io/badge/HBase-E0E0E0" />
-  <img src="https://img.shields.io/badge/HDFS-E0E0E0" />
-  <img src="https://img.shields.io/badge/MapReduce-E0E0E0" />
+  <a href="https://hbase.apache.org/"><img src="https://hbase.apache.org/images/logo.svg" width="40" height="40" alt="HBase" /></a>
+  <a href="https://hadoop.apache.org/docs/r1.2.1/hdfs_design.html"><img src="https://cdn.simpleicons.org/apachehadoop/FFB13B" width="40" height="40" alt="HDFS" /></a>
+  <a href="https://hadoop.apache.org/docs/r1.2.1/mapred_tutorial.html"><img src="https://cdn.simpleicons.org/apachehadoop/66CCFF" width="40" height="40" alt="MapReduce" /></a>
 </p>
 
 #### **Distributed SQL**
 <p align="left">
-  <img src="https://img.shields.io/badge/TiDB-E0E0E0" />
+  <a href="https://www.pingcap.com/"><img src="https://raw.githubusercontent.com/cncf/landscape/refs/heads/master/hosted_logos/tidb.svg" width="40" height="40" alt="TiDB" /></a>
 </p>
 
 #### **RDBMS**
@@ -114,8 +115,8 @@ I am a **Senior Software Engineer** focused on building high-throughput, low-lat
 <p align="left">
   <a href="https://www.docker.com"><img src="https://skillicons.dev/icons?i=docker" width="40" height="40" alt="Docker" /></a>
   <a href="https://kubernetes.io"><img src="https://skillicons.dev/icons?i=kubernetes" width="40" height="40" alt="Kubernetes" /></a>
-  <img src="https://img.shields.io/badge/Helm-E0E0E0" />
-  <img src="https://img.shields.io/badge/Istio-E0E0E0" />
+  <a href="https://helm.sh/"><img src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg" width="40" height="40" alt="Docker" /></a>
+  <a href="https://istio.io/"><img src="https://cdn.simpleicons.org/istio" width="40" height="40" alt="Docker" /></a>
 </p>
 
 #### **Build Tools**
@@ -123,7 +124,7 @@ I am a **Senior Software Engineer** focused on building high-throughput, low-lat
   <a href="https://maven.apache.org"><img src="https://skillicons.dev/icons?i=maven" width="40" height="40" alt="Maven" /></a>
   <a href="https://gradle.org"><img src="https://skillicons.dev/icons?i=gradle" width="40" height="40" alt="Gradle" /></a>
   <a href="https://www.npmjs.com"><img src="https://skillicons.dev/icons?i=npm" width="40" height="40" alt="npm" /></a>
-  <img src="https://img.shields.io/badge/pip-E0E0E0" />
+  <a href="https://pip.pypa.io/en/stable/"><img src="https://cdn.simpleicons.org/pypi/3776AB" width="40" height="40" alt="pip" /></a>
 </p>
 
 
@@ -136,8 +137,8 @@ I am a **Senior Software Engineer** focused on building high-throughput, low-lat
 ### **Security**
 #### **Authn & Authz**:
 <p align="left">
-  <img src="https://img.shields.io/badge/OAuth2-E0E0E0" />
-  <img src="https://img.shields.io/badge/RBAC-E0E0E0" /> 
+  <a href="https://oauth.net/"><img src="https://oauth.net/images/oauth-logo-square.png" width="40" height="40" alt="OAuth2" /></a>
+  <a href="https://auth0.com/docs/manage-users/access-control/rbac"><img src="https://cdn.simpleicons.org/auth0/333333" width="40" height="40" alt="OAuth2" /></a>
 </p>
 
 ### **AI/ML**
@@ -145,18 +146,19 @@ I am a **Senior Software Engineer** focused on building high-throughput, low-lat
 <p align="left">
   <a href="https://www.tensorflow.org"><img src="https://skillicons.dev/icons?i=tensorflow" width="40" height="40" alt="TensorFlow" /></a>
   <a href="https://pytorch.org"><img src="https://skillicons.dev/icons?i=pytorch" width="40" height="40" alt="PyTorch" /></a>
-  <img src="https://img.shields.io/badge/DeepLearning%2FCNN%2FCV-E0E0E0" />
-  <img src="https://img.shields.io/badge/GenAI%2FLLM-E0E0E0" />
-  <img src="https://img.shields.io/badge/RAG-E0E0E0" />
-  <img src="https://img.shields.io/badge/MLOps-E0E0E0" />
+  <a href="https://opencv.org/"><img src="https://cdn.simpleicons.org/opencv" width="40" height="40" alt="Git" /></a>
+  <a href="https://www.deeplearning.ai/"><img src="deeplearning.svg" width="40" height="40" alt="LLM" /></a>
+  <a href="https://aws.amazon.com/what-is/large-language-model/"><img src="llm.svg" width="40" height="40" alt="LLM" /></a>
+  <a href="https://arxiv.org/pdf/2510.12323"><img src="rag.svg" width="40" height="40" alt="RAG" /></a>
+  <a href="https://ml-ops.org/"><img src="mlops.svg" width="40" height="40" alt="MLOps" /></a>
 </p>
 
 
 #### **Other**
 <p align="left">
-  <img src="https://img.shields.io/badge/Azkaban-E0E0E0" />
-  <img src="https://img.shields.io/badge/Rundeck-E0E0E0" />
-  <img src="https://img.shields.io/badge/JavaPoet-E0E0E0" />
+  <a href="https://azkaban.github.io/"><img src="https://azkaban.github.io/img/logo.png"  width="40" height="40" alt="TensorFlow" /></a>
+  <a href="https://rundeck.com"><img src="https://www.vectorlogo.zone/logos/rundeck/rundeck-icon.svg" width="40" height="40" alt="TensorFlow" /></a>
+  <a href="https://github.com/square/javapoet"><img src="https://cdn.simpleicons.org/square/3D3D3D" width="40" height="40" alt="TensorFlow" /></a>
 </p>
 
 ---

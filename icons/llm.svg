@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 64 64"
+        width="64"
+        height="64"
+        fill="none"
+        aria-label="LLM brain circuit"
+>
+    <!-- brain outline -->
+    <path
+            d="M12 18
+       C12 10 20 8 26 10
+       C28 6 36 6 38 10
+       C44 8 52 10 52 18
+       C56 20 56 28 52 30
+       C56 34 56 44 48 46
+       C46 52 38 54 32 52
+       C26 54 18 52 16 46
+       C8 44 8 34 12 30
+       C8 28 8 20 12 18Z"
+            stroke="#2E7D6F"
+            stroke-width="3"
+            stroke-linejoin="round"
+    />
+
+    <!-- center split -->
+    <line
+            x1="32"
+            y1="12"
+            x2="32"
+            y2="52"
+            stroke="#2E7D6F"
+            stroke-width="3"
+    />
+
+    <!-- left circuits -->
+    <g stroke="#2E7D6F" stroke-width="2" stroke-linecap="round">
+        <line x1="20" y1="20" x2="20" y2="28"/>
+        <line x1="20" y1="28" x2="26" y2="28"/>
+        <line x1="18" y1="36" x2="24" y2="36"/>
+        <line x1="24" y1="36" x2="24" y2="42"/>
+    </g>
+
+    <!-- right circuits -->
+    <g stroke="#2E7D6F" stroke-width="2" stroke-linecap="round">
+        <line x1="44" y1="20" x2="44" y2="28"/>
+        <line x1="38" y1="28" x2="44" y2="28"/>
+        <line x1="40" y1="36" x2="46" y2="36"/>
+        <line x1="40" y1="36" x2="40" y2="42"/>
+    </g>
+
+    <!-- circuit nodes -->
+    <g fill="#2E7D6F">
+        <circle cx="20" cy="20" r="2"/>
+        <circle cx="26" cy="28" r="2"/>
+        <circle cx="18" cy="36" r="2"/>
+        <circle cx="24" cy="42" r="2"/>
+
+        <circle cx="44" cy="20" r="2"/>
+        <circle cx="38" cy="28" r="2"/>
+        <circle cx="46" cy="36" r="2"/>
+        <circle cx="40" cy="42" r="2"/>
+    </g>
+</svg>

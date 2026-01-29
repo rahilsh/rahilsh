@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg
+        xmlns="http://www.w3.org/2000/svg"
+        viewBox="0 0 120 40"
+        width="120"
+        height="40"
+        fill="none"
+        aria-label="Interlinked loops"
+>
+    <g
+            stroke="#2F3CFF"
+            stroke-width="4"
+            stroke-linecap="round"
+            stroke-linejoin="round"
+    >
+        <!-- left loop -->
+        <path
+                d="M20 20
+         C20 9 40 9 40 20
+         C40 31 20 31 20 20Z"
+        />
+
+        <!-- middle loop -->
+        <path
+                d="M40 20
+         C40 9 60 9 60 20
+         C60 31 40 31 40 20Z"
+        />
+
+        <!-- right loop -->
+        <path
+                d="M60 20
+         C60 9 80 9 80 20
+         C80 31 60 31 60 20Z"
+        />
+    </g>
+</svg>
