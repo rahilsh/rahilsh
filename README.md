@@ -13,7 +13,7 @@
 
 ## 🚀 The Mission
 
-I am a **Senior Software Engineer** focused on building high-throughput, low-latency distributed systems. My daily stack involves orchestrating microservices, optimizing database performance, and mentoring the next generation of engineers.
+I am a **Senior Software Engineer** focused on building high-throughput, low-latency distributed systems. My daily stack involves architecting microservices, optimizing database performance, and mentoring the next generation of engineers.
 
 - 🏗️ **Core**: Designing large-scale apps & hardware capacity planning.
 - 🤝 **Leadership**: Cross-team collaboration, design reviews, and technical interviewing.
